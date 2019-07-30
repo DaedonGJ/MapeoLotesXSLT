@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Pedidos>
+	<Pedido>
+		<cabecera>
+			<numero_pedido>78542</numero_pedido>
+			<fecha_pedido>20190203</fecha_pedido>
+			<fecha_salida_almacen>20190523</fecha_salida_almacen>
+			<fecha_entrega>20190306</fecha_entrega>
+			<estado></estado>
+			<descripcion_estado>PRUEBA</descripcion_estado>
+		</cabecera>
+		<destino>
+			<cliente>
+				<codigo>-12X-</codigo>
+				<razon_social>EURXXXX FAXXXXXX.</razon_social>
+				<nif>A8318XXXX</nif>
+				<direccion>AVDA. SISTEMA SOLAXXXXXXXXXXXXXXXXXXXXNARES</direccion>
+				<codigo_postal>288XX</codigo_postal>
+				<poblacion>SAN FERNXXXXXXXXXX</poblacion>
+				<provincia>MADXXX</provincia>
+				<pais>ES</pais>
+				<telefono></telefono>
+				<fax></fax>
+				<persona_contacto></persona_contacto>
+				<mail></mail>
+			</cliente>
+		</destino>
+		<lineas>
+			<linea>
+				<codigo_articulo>178XXXXX</codigo_articulo>
+				<num_linea>1</num_linea>
+				<num_entrega>1</num_entrega>
+				<cod_interno_articulo>178XXXXX</cod_interno_articulo>
+				<descripcion>SUERO FISIOLOXXXXXXXXXXXXX</descripcion>
+				<ean>847000XXXXXXX</ean>
+				<cantidad>180</cantidad>
+				<lotes>
+					<lote>
+						<numero>GARG</numero>
+						<unidades>24</unidades>
+
+					</lote>
+					<lote>
+						<numero>GARh</numero>
+						<unidades>67</unidades>
+
+					</lote>
+
+				</lotes>
+			</linea>
+			<linea>
+				<codigo_articulo>178XXXXX</codigo_articulo>
+				<num_linea>1</num_linea>
+				<num_entrega>1</num_entrega>
+				<cod_interno_articulo>178XXXXX</cod_interno_articulo>
+				<descripcion>SUERO FISIOLOXXXXXXXXXXXXX</descripcion>
+				<ean>847000XXXXXXX</ean>
+				<cantidad>180</cantidad>
+				<lotes>
+					<lote>
+						<numero>GAhh</numero>
+						<unidades>240</unidades>
+
+					</lote>
+
+
+				</lotes>
+			</linea>
+			<linea>
+				<codigo_articulo>178XXXXX</codigo_articulo>
+				<num_linea>1</num_linea>
+				<num_entrega>1</num_entrega>
+				<cod_interno_articulo>178XXXXX</cod_interno_articulo>
+				<descripcion>SUERO FISIOLOXXXXXXXXXXXXX</descripcion>
+				<ean>847000XXXXXXX</ean>
+				<cantidad>180</cantidad>
+				<lotes>
+
+
+				</lotes>
+			</linea>
+		</lineas>
+	</Pedido>
+	<Pedido>
+		<cabecera>
+			<numero_pedido>78542</numero_pedido>
+			<fecha_pedido>20190203</fecha_pedido>
+			<fecha_salida_almacen>20190523</fecha_salida_almacen>
+			<fecha_entrega>20190306</fecha_entrega>
+			<estado></estado>
+			<descripcion_estado>PRUEBA</descripcion_estado>
+		</cabecera>
+		<destino>
+			<cliente>
+				<codigo>-12X-</codigo>
+				<razon_social>EURXXXX FAXXXXXX.</razon_social>
+				<nif>A8318XXXX</nif>
+				<direccion>AVDA. SISTEMA SOLAXXXXXXXXXXXXXXXXXXXXNARES</direccion>
+				<codigo_postal>288XX</codigo_postal>
+				<poblacion>SAN FERNXXXXXXXXXX</poblacion>
+				<provincia>MADXXX</provincia>
+				<pais>ES</pais>
+				<telefono></telefono>
+				<fax></fax>
+				<persona_contacto></persona_contacto>
+				<mail></mail>
+			</cliente>
+		</destino>
+		<lineas>
+			<linea>
+				<codigo_articulo>178XXXXX</codigo_articulo>
+				<num_linea>1</num_linea>
+				<num_entrega>1</num_entrega>
+				<cod_interno_articulo>178XXXXX</cod_interno_articulo>
+				<descripcion>SUERO FISIOLOXXXXXXXXXXXXX</descripcion>
+				<ean>847000XXXXXXX</ean>
+				<cantidad>180</cantidad>
+				<lotes>
+					<lote>
+						<numero>GARG</numero>
+						<unidades>45</unidades>
+
+					</lote>
+					<lote>
+						<numero>GARG</numero>
+						<unidades>55</unidades>
+
+					</lote>
+
+				</lotes>
+			</linea>
+			<linea>
+				<codigo_articulo>178XXXXX</codigo_articulo>
+				<num_linea>1</num_linea>
+				<num_entrega>1</num_entrega>
+				<cod_interno_articulo>178XXXXX</cod_interno_articulo>
+				<descripcion>SUERO FISIOLOXXXXXXXXXXXXX</descripcion>
+				<ean>847000XXXXXXX</ean>
+				<cantidad>180</cantidad>
+				<lotes>
+					<lote>
+						<numero>GARG</numero>
+						<unidades>224</unidades>
+
+					</lote>
+
+
+				</lotes>
+			</linea>
+			<linea>
+				<codigo_articulo>178XXXXX</codigo_articulo>
+				<num_linea>1</num_linea>
+				<num_entrega>1</num_entrega>
+				<cod_interno_articulo>178XXXXX</cod_interno_articulo>
+				<descripcion>SUERO FISIOLOXXXXXXXXXXXXX</descripcion>
+				<ean>847000XXXXXXX</ean>
+				<cantidad>180</cantidad>
+				<lotes>
+
+
+				</lotes>
+			</linea>
+		</lineas>
+	</Pedido>
+	
+	<cabecera_documento>
+		<fecha_documento>20190506</fecha_documento>
+		<hora_documento>16:01</hora_documento>
+		<consignatario>
+			<cliente>
+				<codigo>IXXX</codigo>
+				<razon_social>PHARMA XXXXXXX</razon_social>
+				<nif>B1957XXXX</nif>
+				<direccion>Avda. de la innoXXXXXXXXXXXXXXXXXXXXXnada </direccion>
+				<codigo_postal>18XXX</codigo_postal>
+				<poblacion>GraXXX</poblacion>
+				<provincia>GraXXX</provincia>
+				<pais>EspXXX</pais>
+				<telefono></telefono>
+				<fax></fax>
+				<persona_contacto></persona_contacto>
+				<mail></mail>
+			</cliente>
+		</consignatario>
+	</cabecera_documento>
+	<Tipo>PRUEBA</Tipo>
+</Pedidos>
